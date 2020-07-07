@@ -1,0 +1,28 @@
+{
+  "name": "walint",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "walint": "./bin/walint.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falafeljan/walint.git"
+  },
+  "keywords": [
+    "linter",
+    "annotation",
+    "web-annotation"
+  ],
+  "author": "Jan Kaßel <jan@kassel.works>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/falafeljan/walint/issues"
+  },
+  "homepage": "https://github.com/falafeljan/walint#readme",
+  "dependencies": {}
+}
