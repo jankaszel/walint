@@ -24,5 +24,9 @@
     "url": "https://github.com/falafeljan/walint/issues"
   },
   "homepage": "https://github.com/falafeljan/walint#readme",
-  "dependencies": {}
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "node-fetch": "^2.6.0",
+    "parse-link-header": "^1.0.1"
+  }
 }
