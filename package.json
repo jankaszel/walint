@@ -27,6 +27,6 @@
   "dependencies": {
     "minimist": "^1.2.5",
     "node-fetch": "^2.6.1",
-    "parse-link-header": "^1.0.1"
+    "parse-link-header": "^2.0.0"
   }
 }
