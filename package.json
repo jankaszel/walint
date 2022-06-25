@@ -26,7 +26,7 @@
   "homepage": "https://github.com/falafeljan/walint#readme",
   "dependencies": {
     "minimist": "^1.2.5",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "parse-link-header": "^1.0.1"
   }
 }
